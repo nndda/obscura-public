@@ -43,6 +43,9 @@ First, lets separate the images from the website's project folder. Lets name it 
    └─ image.png
 ```
 
+> [!NOTE]
+> The setup used in this tutorial also available for download in the [itch.io page](https://nnda.itch.io/obscura)
+
 ## Configuration
 
 Create a new YAML file under your images folder, this will be the Obscura configuration file. Lets name it `obscura.yaml`:
